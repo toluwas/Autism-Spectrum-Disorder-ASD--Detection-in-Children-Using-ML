@@ -1,4 +1,7 @@
 # Autism Spectrum Disorder (ASD) Detection in Children Using Machine Learning
+
+Topics: autism, asd-detection, machine-learning, data-science, healthcare-ai, child-development, predictive-modeling, ai-in-healthcare, classification, python
+
 📘 Project Overview
 
 This project aims to develop an intelligent autism detection model that can identify early signs of Autism Spectrum Disorder (ASD) in children using behavioral, communication, and developmental data.
